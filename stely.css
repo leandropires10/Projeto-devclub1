@@ -15,11 +15,11 @@ header{
     line-height: 21px;
     text-align: center;
     letter-spacing: 0.875px;
-    color: #17233d; ;
+    color: #17233d; 
     margin-right:32px ;
     cursor: pointer;
 }
-.botao{
+.botao1{
     background: #6fbf44;
     border:1px solid #4cb53b ;
     border-radius: 6px;
@@ -59,7 +59,7 @@ p{
     margin-top: 47px;
     margin-bottom: 55px;
 }
-.botao1{
+.botao2{
     font-weight:500 ;
     font-size:18px;
     line-height: 27px;
@@ -109,10 +109,10 @@ p{
         width: 304px;
         height: 165px;
         }
-        .botao{
+        .botao1{
             margin: 23px 25px 0 304px;
         }
-        .botao1{
+        .botao2{
             margin: 26px 139px 0 139px;
         }
         main{
